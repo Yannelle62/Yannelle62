@@ -1,6 +1,6 @@
 ### Bonjour, moi c'est Gloria Yannelle NEGUI
 
-Étudiante en Master 1 Sciences des Données à l'Université de Lorraine, je me spécialise dans la data science, l'analyse de données, le machine learning et la sécurisation des infrastructures. Actuellement à la recherche d'une alternance de 24 mois en tant que **Data Analyst**, je réalise et valorise ici mes projets académiques et techniques.
+Étudiante en Master 1 Sciences des Données à l'Université de Lorraine, je me spécialise dans la data science, l'analyse de données, le machine learning et la sécurisation des infrastructures. Actuellement à la recherche d'une alternance de 24 mois, je réalise et valorise ici mes projets académiques et techniques.
 
 ---
 
